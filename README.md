@@ -3,7 +3,7 @@ Lectures on introduction to convex analysis and convex optimization theory
 
 ## Syllabus
 
-1. [Introduction and convex sets]()
+1. [Introduction and convex sets](./01-IntroConvSets/lecture1.pdf)
 2. [More about convex sets]()
 3. [Cones and dual cones]()
 4. [Convex functions]()
