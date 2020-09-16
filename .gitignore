@@ -279,3 +279,4 @@ TSWLatexianTemp*
 *.xwm
 
 .DS_Store
+.ipynb_checkpoints/
