@@ -7,7 +7,7 @@ Lectures on introduction to convex analysis and convex optimization theory
 2. [More about convex sets](./02-ConvSetsCones/lecture2.pdf)
 3. [Cones and dual cones](./03-DualCones/lecture3.pdf)
 4. [Convex functions](./04-ConvexFunc/lecture4.pdf)
-5. [More facts about convex functions]()
+5. [More facts about convex functions](./05-LipConvSubgrad/lecture5.pdf)
 6. [Subgradient calculus]()
 7. [More about subdifferentials]()
 8. [Optimality conditions]()
