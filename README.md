@@ -9,13 +9,12 @@ Lectures on introduction to convex analysis and convex optimization theory
 4. [Convex functions](./04-ConvexFunc/lecture4.pdf)
 5. [More facts about convex functions](./05-LipConvSubgrad/lecture5.pdf)
 6. [Subgradient calculus](./06-Subgrad/lecture6.pdf)
-7. [Optimality conditions]()
-8. [Conjugate functions]()
-9. [KKT]()
-10. [Duality]()
-11. [Linear programming problem]()
-12. [Idea of simplex method]()
-13. [From linear programming to convex conic optimization]()
+7. [Intro to optimality conditions and conjugate functions](./07-ConjFunc/lecture7.pdf)
+8. [KKT]()
+9. [Duality]()
+10. [Linear programming problem]()
+11. [Idea of simplex method]()
+12. [From linear programming to convex conic optimization]()
 
 
 
