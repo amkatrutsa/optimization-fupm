@@ -14,7 +14,6 @@ Lectures on introduction to convex analysis and convex optimization theory
 9. [KKT]()
 10. [Linear programming problem]()
 11. [Idea of simplex method]()
-12. [From linear programming to convex conic optimization]()
 
 
 
