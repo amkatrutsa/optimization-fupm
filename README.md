@@ -12,7 +12,7 @@ Lectures on introduction to convex analysis and convex optimization theory
 7. [Intro to optimality conditions and conjugate functions](./07-ConjFunc/lecture7.pdf)
 8. [Duality](./08-Duality/lecture8.pdf)
 9. [KKT](./09-KKT/lecture9.pdf)
-10. [Linear programming problem]()
+10. [Linear programming problem](./10-LinProgIntro/lecture10.pdf)
 11. [Idea of simplex method]()
 
 
